@@ -1,0 +1,11 @@
+{
+  "name": "Sinden Lightgun",
+  "author": "Tom Britton",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["lightgun", "sinden", "controller"],
+    "description": "Run the sindenrs light-gun driver from Game Mode: on/off, status, border and smoothing, and the browser arcade's games as Steam shortcuts that switch the gun on while they run.",
+    "image": ""
+  }
+}
